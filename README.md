@@ -1,4 +1,5 @@
 #Sales Inisght Project
+
 Developed an interactive Sales Insight Dashboard to analyze and visualize company sales performance across regions, products, and customer segments. 
 The project aimed to provide business leaders with data-driven insights to improve decision-making, optimize sales strategies, and identify growth opportunities.
 
